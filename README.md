@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jiafeng
 - 👀 I’m interested in Java/Python/SQL
-- 💞️ I’m looking for software engineer summer internship
+- 💞️ I’m looking for software engineer/data scientist/data analyst full time job
 - 📫 How to reach me: jli740@uottawa.ca
